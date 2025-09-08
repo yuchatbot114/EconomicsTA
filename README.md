@@ -1,1 +1,1 @@
-# EconomicsTA
+# EconomyTA
